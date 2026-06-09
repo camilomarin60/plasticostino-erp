@@ -11,3 +11,9 @@
 - [ ] 7. Multiusuario con claves — Users + Role Permissions
 - [ ] 8. Consecutivos — Naming Series por documento
 - [ ] 9. Print Formats personalizados — Recibo de Caja + Comprobante de Egreso
+
+## Setup local
+
+- Fecha de primer arranque: 2026-06-09
+- frappe_docker commit: 55cbf8e
+- Versión ERPNext usada en local: v16.21.1 (prod usará v15 con easy-install)
